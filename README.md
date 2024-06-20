@@ -10,7 +10,10 @@ Change Password module requires users to enter their old password before setting
 
 My this project will definitely help user just by installing Java jdk latest version on their computer and simply double click on `PhoneBookApplication.jar` file in project directory.
 
+## Project Demo
+Click PLAY Button
 
+https://github.com/Mrunal-Pote/Phonebook-Application/assets/173133492/4e7635bd-281b-4408-aafc-8817d0d3d157
 
 
 
